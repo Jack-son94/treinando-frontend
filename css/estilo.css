@@ -1,8 +1,8 @@
 body {
     font-family:'Trebuchet MS', sans-serif;
     max-width: 1280px;
-    margin: 0 auto;
-    padding: 40px;
+    align-items: center;
+    min-height: 100vh;
     background-color: #b0c4de;
     /*tudo isso...*/
     display: flex;
